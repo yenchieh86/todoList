@@ -16,6 +16,6 @@ This Todo List is created by HTML, CSS/Bootstrap and JavaScrip/jQuery.
 - cross out the item by ** click ** on that item
 - use ** trash can symbol ** to delete the item from Todo List
 
-[APP](https://yenchieh86.github.io/todoList/index.html)
+[APP](https://yenchieh86.github.io/todoList)
 
 ![Show-Img](https://raw.githubusercontent.com/yenchieh86/todoList/master/show_img.jpg)
